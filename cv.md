@@ -4,8 +4,8 @@
 
 ### Contacts
 
-- [Telegram](executeKitty.t.me)
-- [Email](PeacefulMole@yandex.ru)
+- [Telegram](https://executeKitty.t.me)
+- [Email](mailto:PeacefulMole@yandex.ru)
 - PeacefulMole#0433 (Discord)
 
 ### About me
