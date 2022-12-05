@@ -1,1 +1,1 @@
-https://PeacefulMole.github.io/rsschool-cv/
+https://PeacefulMole.github.io/rsschool-cv/cv
