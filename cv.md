@@ -30,3 +30,13 @@ I use Windows 11 as my primary operating system. I use Visual Studio Code to edi
 
 Russian - native
 English - Pre-Intermediate A2
+
+## Education
+
+### Programming Engineer
+
+2020 - present time. Vernadsky СFU.
+
+### JS / Front-end. Stage 0
+
+2022 - present Time. The Rolling Scopes School
