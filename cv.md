@@ -4,8 +4,8 @@
 
 ### Contacts
 
-- executeKitty.t.me
-- PeacefulMole@yandex.ru
+- [Telegram](executeKitty.t.me)
+- [Email](PeacefulMole@yandex.ru)
 - PeacefulMole#0433 (Discord)
 
 ### About me
@@ -15,9 +15,9 @@ A student of the Institute of Physics and Technology. I decided separately from 
 ### Skills
 
 - C++
-  - studied basics at university, most of the lab work is provided in my repository https://github.com/PeacefulMole/Programming-university.
+  - studied basics at university, most of the lab work is provided in my repository [Programming-university](https://github.com/PeacefulMole/Programming-university).
 - Python
-  - studied basics at university, most of the lab work is provided in my repository https://github.com/PeacefulMole/Programming-university.
+  - studied basics at university, most of the lab work is provided in my repository [Programming-university](https://github.com/PeacefulMole/Programming-university).
 - HTML
 - CSS
 - Git
@@ -45,4 +45,4 @@ English - Pre-Intermediate A2
 
 ### Engineering calculator
 
-Created as a lab project at a university. The project's github: https://github.com/PeacefulMole/InJCalc-university. JavaScript, CSS, SCSS and React framework were used in the project. The result can be viewed at: https://inj-calcu-molech.vercel.app/.
+Created as a lab project at a university. The project's github: [InJCalc-university](https://github.com/PeacefulMole/InJCalc-university). JavaScript, CSS, SCSS and React framework were used in the project. The result can be viewed at: [InJCalc](https://inj-calcu-molech.vercel.app/).
