@@ -21,3 +21,7 @@ A student of the Institute of Physics and Technology. I decided separately from 
 - HTML
 - CSS
 - Git
+
+### Tools
+
+I use Windows 11 as my primary operating system. I use Visual Studio Code to edit code.
