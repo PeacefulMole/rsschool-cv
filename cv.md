@@ -25,3 +25,8 @@ A student of the Institute of Physics and Technology. I decided separately from 
 ### Tools
 
 I use Windows 11 as my primary operating system. I use Visual Studio Code to edit code.
+
+### Languages
+
+Russian - native
+English - Pre-Intermediate A2
