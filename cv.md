@@ -40,3 +40,9 @@ English - Pre-Intermediate A2
 ### JS / Front-end. Stage 0
 
 2022 - present Time. The Rolling Scopes School
+
+## Projects
+
+### Engineering calculator
+
+Created as a lab project at a university. The project's github: https://github.com/PeacefulMole/InJCalc-university. JavaScript, CSS, SCSS and React framework were used in the project. The result can be viewed at: https://inj-calcu-molech.vercel.app/.
